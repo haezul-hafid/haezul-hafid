@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @haezul-hafid
-- 👀 I’m interested in Web developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋, I'm Haezul Hafid
 
-<!---
-haezul-hafid/haezul-hafid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Freelance Web Developer**  
+🔥 Laravel | React | Vue | Tailwind | MySQL
+
+---
+
+## 🚀 About Me
+Saya adalah seorang developer web yang fokus membangun aplikasi berbasis Laravel dan frontend modern seperti Vue atau React.
+
+🌱 Saat ini saya sedang mencari project freelance baru.  
+📬 Hubungi saya: **haezulhafid2003@gmail.com**
+
+---
+
+## 💼 Project Portofolio
+- 🔧 [Futsal Booking System](#) – Sistem booking lapangan futsal 
+- 📝 [Todo App Vue](#) – Aplikasi todo list sederhana 
+
+---
+
+## 🧰 Tech Stack
+- **Backend**: Laravel, PHP
+- **Frontend**: Vue 3, React, TailwindCSS, Bootstrap
+- **Database**: MySQL, PostgreSQL
+- **Tools**: Git, GitHub, VS Code, Figma
+
+---
+
+## 📫 Let's Connect
+- Email: haezulhafid2003@gmail.com
+- WhatsApp: 085776120354
+- LinkedIn https://www.linkedin.com/in/haezul-hafid-168225258/
